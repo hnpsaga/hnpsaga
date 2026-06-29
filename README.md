@@ -50,7 +50,6 @@ I prefer pragmatic engineering over unnecessary abstraction, introducing complex
 
 * TypeScript
 * Python
-* JavaScript
 * SQL
 * Groovy
 
